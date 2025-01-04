@@ -1,0 +1,16 @@
+model\Cupom.class
+model\Moto.class
+model\Veiculo.class
+model\Carro.class
+service\gerenciador\Gerenciador.class
+service\gerenciador\GerenciadorVeiculos.class
+service\cupom\CupomDescontoPercentual.class
+model\Caminhao.class
+service\gerenciador\GerenciadorAlugueis.class
+com\mycompany\sudovrum\Sudovrum.class
+service\cupom\CupomDescontoFixo.class
+model\Aluguel.class
+service\CalculadoraDePreco.class
+service\cupom\CupomDesconto.class
+model\Cliente.class
+service\gerenciador\GerenciadorCupons.class
